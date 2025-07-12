@@ -23,7 +23,8 @@ This project is designed to provide a safe emotional outlet for users. In a worl
 
 ---
 
-**Live Demo:**  
+**Live Demo:**  https://badalsingh1802.github.io/The-Regret-Room/
+<br>
 **Made with ❤️ by Badal Kumar Singh**
 
  
