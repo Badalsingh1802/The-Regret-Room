@@ -1,4 +1,4 @@
- ## 🌌 The Regret Room
+ ##🌌 The Regret Room
 
 **The Regret Room** is an emotional expression platform where users can **anonymously share their feelings** with a virtual character. Whether you're feeling happy, sad, angry, or lost — this space allows you to **express without judgment**.
 
